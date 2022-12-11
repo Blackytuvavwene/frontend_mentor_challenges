@@ -1,0 +1,30 @@
+{
+  "name": "order-summary-component-main",
+  "version": "1.0.0",
+  "description": "FrontEndMentor order summary component challenge ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+      "dev": "vite",
+      "build": "vite build", 
+      "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blackytuvavwene/frontend_mentor_challenges.git"
+  },
+  "keywords": [
+    "challenge",
+    "order",
+    "summary"
+  ],
+  "author": "Boitumelo Tubabwene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blackytuvavwene/frontend_mentor_challenges/issues"
+  },
+  "homepage": "https://github.com/Blackytuvavwene/frontend_mentor_challenges#readme",
+  "dependencies": {
+    "vite": "^4.0.0"
+  }
+}
